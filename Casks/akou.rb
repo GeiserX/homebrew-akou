@@ -9,7 +9,7 @@ cask "akou" do
   homepage "https://github.com/GeiserX/akou"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "akou.app"
 
