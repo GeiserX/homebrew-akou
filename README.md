@@ -1,4 +1,6 @@
-# homebrew-akou
+<p align="center"><img src="docs/images/banner.svg" alt="homebrew-akou banner" width="900"/></p>
+
+<h1 align="center">homebrew-akou</h1>
 
 The Homebrew tap for [akou](https://github.com/GeiserX/akou), the app that records your calls locally, transcribes them live and answers questions about them.
 
