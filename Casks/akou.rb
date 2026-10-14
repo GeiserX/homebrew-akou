@@ -1,7 +1,7 @@
 # Written by the akou release (https://github.com/GeiserX/akou/blob/main/scripts/bump-cask.ts).
 cask "akou" do
-  version "1.1.0"
-  sha256 "a7132d505290f47060525dca7f62ef30b53d241517769de5f54a43369937095a"
+  version "1.2.0"
+  sha256 "5b8ac393193ffb218001e24acddf43656f187d9cd8127070e73e3aecc88cdd16"
 
   url "https://github.com/GeiserX/akou/releases/download/v#{version}/akou-#{version}-macos-arm64.dmg"
   name "akou"
